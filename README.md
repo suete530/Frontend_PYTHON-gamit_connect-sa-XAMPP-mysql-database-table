@@ -1,3 +1,6 @@
+<img width="1075" height="681" alt="Screenshot 2026-10-23 074214" src="https://github.com/user-attachments/assets/ff7539b2-20c6-4466-89aa-d652f4097c8f" />
+<img width="1071" height="681" alt="Screenshot 2026-10-23 074154" src="https://github.com/user-attachments/assets/10986911-cdb8-4794-a2d2-39916d55b050" />
+
 # Student Course System
 
 Isang Python command-line application para mag-manage ng student course records gamit ang MySQL/MariaDB sa XAMPP.
